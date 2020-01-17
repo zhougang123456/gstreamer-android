@@ -8,6 +8,6 @@ GSTREAMER_PLUGINS_SYS := opengl opensles ipcpipeline
 GSTREAMER_PLUGINS_EFFECTS := alpha alphacolor audiofx cairo cutter debug deinterlace dtmf effectv equalizer gdkpixbuf imagefreeze interleave level multifile replaygain shapewipe smpte spectrum videobox videocrop videomixer accurip aiff audiobuffersplit audiofxbad audiolatency audiomixmatrix autoconvert bayer coloreffects closedcaption debugutilsbad fieldanalysis freeverb frei0r gaudieffects geometrictransform inter interlace ivtc legacyrawparse proxy removesilence segmentclip smooth speed soundtouch timecode videofiltersbad videoframe_audiolevel webrtcdsp ladspa
 GSTREAMER_PLUGINS_CAPTURE := camerabin
 GSTREAMER_PLUGINS_CODECS_GPL := assrender
-GSTREAMER_PLUGINS_CODECS_RESTRICTED := asfmux dtsdec mpegpsdemux mpegpsmux mpegtsdemux mpegtsmux voaacenc a52dec amrnb amrwbdec asf dvdsub dvdlpcmdec xingmux realmedia x264 libav
+GSTREAMER_PLUGINS_CODECS_RESTRICTED := asfmux dtsdec mpegpsdemux mpegpsmux mpegtsdemux mpegtsmux voaacenc a52dec amrnb amrwbdec asf dvdsub dvdlpcmdec xingmux realmedia x264
 GSTREAMER_PLUGINS_NET_RESTRICTED := mms rtmp
 GSTREAMER_PLUGINS_GES := nle ges
